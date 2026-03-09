@@ -1,0 +1,10 @@
+alias ezsh="vi ~/.zshrc"
+alias eal="vi $ZSH_CUSTOM/aliases.zsh"
+alias evi="vi ~/.vimrc"
+alias bi="brew install"
+alias gs="git status"
+alias ga="git add"
+alias gpush="git push"
+alias copy="pbcopy"
+alias count="wc -l"
+
